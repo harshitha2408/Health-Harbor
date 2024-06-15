@@ -9,3 +9,6 @@ FEATURES:
 3)Sleep Tracker
 4)Heart Disease Predicter
 5)Diabetes Disease Predicter
+6)Newsletter
+7)Memory Wellness Game
+8)Dashboard
