@@ -16,5 +16,11 @@ Health Vista is an all-in-one health management application designed to provide 
 The main idea behind our solution is to prevent any health issues from arising and not just help in battling these diseases inspired by the quote "Prevention is better than cure".
 Our solution helps satisfy these needs through unique features for all-round maintenance of one's health in the midst of their busy schedule. We have ensured that these features guide the users to address day-to-day issues and habits which if unchecked may lead to life-time ailments and prolonged sufferance.
 
+python -m venv venv - run to create virtual environment 
+venv\Scripts\activate - run to activate it  on windows 
+source venv/bin/activate - run to activate it on macos /linux 
+pip install -r requirements.txt - run to install dependencies 
+python manage.py runserver - run to start django development server
+
 
 
