@@ -5,10 +5,8 @@ Health Harbor is an all-in-one health management application designed to provide
 FEATURES:
 
 1)BMI Calculator
-2)Period Tracker
-3)Calorie Calculator
-4)Sleep Tracker
-5)Hydration Tracker
-6)Heart Disease Predicter
-7)Breast Cancer Disease Predicter
-8)Diabetes Disease Predicter
+2)Calorie Calculator
+3)Sleep Tracker
+4)Heart Disease Predicter
+5)Breast Cancer Disease Predicter
+6)Diabetes Disease Predicter
